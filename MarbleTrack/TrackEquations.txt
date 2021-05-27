@@ -1,0 +1,10 @@
+﻿"TrackLength"= 150
+
+"MarbleWidth"= 13
+
+"MarbleTrackWidth"= "MarbleWidth" - 1
+
+"TrackWidth"= "MarbleTrackWidth" + ( 2 * 4 )
+
+"MarbleTrackLength"= "TrackLength" - ( 2 * 8 )
+

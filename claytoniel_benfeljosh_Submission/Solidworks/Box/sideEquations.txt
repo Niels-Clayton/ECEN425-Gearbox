@@ -1,0 +1,9 @@
+﻿"filletRadius"=0.2
+"fingerWidth"= 46
+"wallThickness"= 6
+"M3"= 3
+"nutThickness"=3
+"boltLength"= 12
+"distanceToNut"= 5
+"sideLength"=150
+"nutWidth"=7
